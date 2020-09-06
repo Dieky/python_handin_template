@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+CLIarguments.py
+Week 1 hand in.ipynb
+Week2.ipynb
+befkbhalderstatkode.csv
+test.txt
+utils.py
+week 2 exercises.ipynb
