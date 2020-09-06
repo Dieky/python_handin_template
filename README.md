@@ -1,4 +1,5 @@
 # python Handin Template
+## https://mybinder.org/v2/gh/Dieky/python_handin_template/master
 This is how you get study points for python elective. 10 out of 13 handins must be approved.
 1. Clone or fork this template (to use for all handins on the python elective course).
 2. Remove week 2 and 3 notebooks
